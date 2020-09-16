@@ -7,6 +7,7 @@
 - 📫 How to reach me: Reach out to me on [LinkedIn](https://www.linkedin.com/in/chrisherczeg)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: maybe someday I will have a good answer to this icebreaker
+- :computer: Check out my [Link Tree](https://linktr.ee/ChrisHerczeg) for stuff I find interesting!
 
 <!--
 **chrisherczeg/chrisherczeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
