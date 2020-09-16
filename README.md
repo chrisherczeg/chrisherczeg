@@ -4,7 +4,7 @@
 - 🔭 I’m currently a student at Purdue University graduating December 2020
 - 🌱 I’m currently studying computer science and mathematics
 - 💬 Ask me about my internships or work at Microsoft
-- 📫 How to reach me: Reach out to me on [LinkedIn](www.linkedin.com/in/chrisherczeg)
+- 📫 How to reach me: Reach out to me on [LinkedIn](https://www.linkedin.com/in/chrisherczeg)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: maybe someday I will have a good answer to this icebreaker
 
