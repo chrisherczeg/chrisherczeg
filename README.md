@@ -2,7 +2,7 @@
 ### Hi there 👋 I'm Chris Herczeg
 
 - 🔭 I’m currently a software engineer at Microsoft
-- 🌱 I’m currently studying computer science and mathematics
+- 🌱 As an undergrad, I studied computer science and mathematics at Purdue University.
 - 💬 Ask me about my internships or work at Microsoft
 - 📫 How to reach me: Reach out to me on [LinkedIn](https://www.linkedin.com/in/chrisherczeg)
 - 😄 Pronouns: he/him/his
