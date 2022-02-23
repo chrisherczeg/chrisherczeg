@@ -1,7 +1,7 @@
 
 ### Hi there 👋 I'm Chris Herczeg
 
-- 🔭 I’m currently a student at Purdue University graduating December 2020
+- 🔭 I’m currently a software engineer at Microsoft
 - 🌱 I’m currently studying computer science and mathematics
 - 💬 Ask me about my internships or work at Microsoft
 - 📫 How to reach me: Reach out to me on [LinkedIn](https://www.linkedin.com/in/chrisherczeg)
