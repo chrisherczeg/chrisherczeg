@@ -33,8 +33,7 @@ I like building practical software, digging into technical details, and keeping 
 ## GitHub
 
 <p align="center">
-  <img height="170" alt="Chris's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=chrisherczeg&show_icons=true&theme=default&hide_border=true" />
-  <img height="170" alt="Chris's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisherczeg&layout=compact&theme=default&hide_border=true" />
+  <img alt="Chris's GitHub stats" src="https://ghstats.dev/api/card?username=chrisherczeg" />
 </p>
 
 ## Contact
