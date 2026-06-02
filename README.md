@@ -2,7 +2,7 @@
 
 # Chris Herczeg
 
-**Software Engineer at Microsoft**  
+**Senior Software Engineer at Microsoft**  
 Purdue CS + Math · M.S. Electrical and Computer Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisherczeg)
