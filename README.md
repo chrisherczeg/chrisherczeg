@@ -35,7 +35,7 @@ I like building practical software, digging into technical details, and keeping 
 <p align="center">
   <img alt="Chris's GitHub stats" src="https://ghstats.dev/api/card?username=chrisherczeg" />
   <br />
-  <img alt="Chris's top languages" src="https://ghstats.dev/api/langs?username=chrisherczeg" />
+  <img alt="Chris's top languages" src="https://ghstats.dev/api/langs?username=chrisherczeg&theme=light" />
 </p>
 
 ## Contact
